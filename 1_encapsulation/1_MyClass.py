@@ -1,3 +1,6 @@
+# Encapsulation involves bundling the data (attributes) and methods (functions) that operate on the data into a single unit known as a Class.
+
+# Advantages - Data Hiding, Modularity, Controlled Access, Security, Code Organization
 
 class MyClass:
     def set_value(self, val):
